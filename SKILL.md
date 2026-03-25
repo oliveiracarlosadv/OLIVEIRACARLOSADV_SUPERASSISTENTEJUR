@@ -1,3 +1,10 @@
+---
+name: Super Assistente 4.0
+version: 1.0.0
+description: Skill jurídica avançada criada por Carlos A. A. Oliveira (OAB/PA 33996)
+author: Carlos A. A. Oliveira
+---
+
 # Super Assistente 4.0 — Skill Jurídica
 
 ## Identidade
